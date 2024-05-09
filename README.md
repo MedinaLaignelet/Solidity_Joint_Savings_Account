@@ -17,13 +17,13 @@ The following screenshots show the following transactions: Initial Balance, Tran
 
 <img src="/Execution_Results/startbal2.png">
 ###Transaction Send 1 ether as wei
-<img src="/Execution_Result/Oneethwei3.png">
-<img src="/Execution_Result/OneethBAL4.png">
+<img src="/Execution_Results/Oneethwei3.png">
+<img src="/Execution_Results/OneethBAL4.png">
 ###Transaction Send 10 ether as wei###
-<img src="/Execution_Result/TenethBAL5.png">
+<img src="/Execution_Results/TenethBAL5.png">
 ###Transaction Send 5 ether###
 <img src="/Execution_Results/FiveethBAL6.png">
-<img src="/Execution_Result/Fivebal7.png">
+<img src="/Execution_Results/Fivebal7.png">
 ###Dummy Accounts Set Up###
 <img src="/Execution_Results/dummyacct8.png">
 
@@ -33,9 +33,10 @@ The following screenshots show withdrawing 5 ether into accountOne and 10 ether 
 
 <img src="/Execution_Results/5ethTR9.png">
 <img src="/Execution_Results/11.png">
-<img src="/Execution_Result/12.png">
+<img src="/Execution_Results/12.png">
 
-###Resources###
+### Resources ###
+
 UC Berkely Fintech Bootcamp Class Material
 UC Berkely Fintech Bootcamp  Tutoring Session 5/8/2024
 
